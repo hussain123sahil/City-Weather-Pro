@@ -2,7 +2,7 @@
 
 City Weather pro is a React Weather WebApp and was developed as a project using React. It leverages React.js to provide users with up-to-date weather information for any city globally. Weather data is sourced using the Weather API.
 
-![Opera Snapshot_2024-02-08_163132_react-weather-app-shemmee netlify app](https://github.com/s-shemmee/React-Weather-App/assets/56132945/a3aea312-a726-40c6-93bb-45261ecddcad)
+![Demo image](./images/Demo.png).
 
 ## Features
 
@@ -25,8 +25,8 @@ To run this application locally, follow these steps:
 
 1. Clone this repository or download the source code.
    ```
-   git clone https://github.com/s-shemmee/React-Weather-App.git
-   cd React-Weather-App
+   git clone https://github.com/hussain123sahil/City-Weather-Pro.git
+   cd City-Weather-Pro
    ```
 
 2. Open the project in your favorite code editor (e.g., VS Code).
@@ -52,7 +52,7 @@ npm start
 
 ### Live Demo
 
-Experience the React Weather WebApp live at LINK TO LIVE DEMO.
+Experience the React Weather WebApp live at [LINK TO LIVE DEMO](https://city-weather-pro.vercel.app/).
 
 ### License
 This project is distributed under the MIT License.
