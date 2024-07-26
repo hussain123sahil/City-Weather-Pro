@@ -52,7 +52,7 @@ npm start
 
 ### Live Demo
 
-Experience the React Weather WebApp live at ![LINK TO LIVE DEMO](https://city-weather-pro.vercel.app/).
+Experience the React Weather WebApp live at [LINK TO LIVE DEMO](https://city-weather-pro.vercel.app/).
 
 ### License
 This project is distributed under the MIT License.
