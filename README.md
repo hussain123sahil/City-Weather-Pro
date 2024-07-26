@@ -25,8 +25,8 @@ To run this application locally, follow these steps:
 
 1. Clone this repository or download the source code.
    ```
-   git clone https://github.com/s-shemmee/React-Weather-App.git
-   cd React-Weather-App
+   git clone https://github.com/hussain123sahil/City-Weather-Pro.git
+   cd City-Weather-Pro
    ```
 
 2. Open the project in your favorite code editor (e.g., VS Code).
@@ -52,7 +52,7 @@ npm start
 
 ### Live Demo
 
-Experience the React Weather WebApp live at LINK TO LIVE DEMO.
+Experience the React Weather WebApp live at ![LINK TO LIVE DEMO](https://city-weather-pro.vercel.app/).
 
 ### License
 This project is distributed under the MIT License.
